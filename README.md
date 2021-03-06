@@ -32,7 +32,7 @@
 - 💬 Ask me about data structures and algorithms.  
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/momayaz-al-doos-8b37051b5/) Or by email [@Gmail](momaya.dr.1@gmail.com)  
 - ⚡ Fun fact: love to work at night.
-- 
+
 
 [linkedin]: https://linkedin.com/in/momayaz-al-doos-8b37051b5/
 [portfolio]: https://drive.google.com/file/d/1W9rQeTOVkoZZXCwxrF18rj-wECtKg3ji/view?usp=sharing
